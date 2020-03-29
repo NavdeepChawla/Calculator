@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="buttonLeftBracket">(</string>
+    <string name="buttonRightBracket">)</string>
+    <string name="buttonDot">.</string>
+    <string name="buttonDelete">Del</string>
+    <string name="buttonClear">Clr</string>
+    <string name="buttonNine">9</string>
+    <string name="buttonEight">8</string>
+    <string name="buttonSeven">7</string>
+    <string name="buttonSix">6</string>
+    <string name="buttonFive">5</string>
+    <string name="buttonFour">4</string>
+    <string name="buttonThree">3</string>
+    <string name="buttonTwo">2</string>
+    <string name="buttonOne">1</string>
+    <string name="buttonZero">0</string>
+    <string name="buttonPlus">+</string>
+    <string name="buttonMinus">-</string>
+    <string name="buttonMultiply">*</string>
+    <string name="buttonDivide">/</string>
+    <string name="buttonEqual">=</string>
+    <string name="editTextHint">Enter Equation</string>
+    <string name="textviewHeading">CALCULATOR</string>
+</resources>
